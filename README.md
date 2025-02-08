@@ -11,7 +11,7 @@ If you are newer to Unreal and want some goals to focus on here they are :
 
 Keep in mind this list is here just to give you ideas and get you going ! you don't have to do any of this if you have other ideas !
 
-#Submition :
+##Submition :
 Finally, your submition will be in the form of a github link containing your project and a README.md file containing the following info : 
  * engine version: 
  * project template + any imported model or blueprint (empty if from scratch): 
