@@ -1,4 +1,4 @@
-# CSGAMES-Tryouts-2DP
+# CSGAMES-Tryouts-3RD
 
 This is a simple 2d game using unity's paper2d and sprite systems. You are free to modify it in any way you like for this challenge.
 If you are newer to Unreal and want some goals to focus on here they are :
