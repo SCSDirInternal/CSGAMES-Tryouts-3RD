@@ -1,6 +1,6 @@
 # CSGAMES-Tryouts-3RD
 
-This is a simple 2d game using unity's paper2d and sprite systems. You are free to modify it in any way you like for this challenge.
+This is the basid third person project in Unreal. You are free to modify it in any way you like for this challenge.
 If you are newer to Unreal and want some goals to focus on here they are :
  * change the player model.
  * change the level and make a parkour.
